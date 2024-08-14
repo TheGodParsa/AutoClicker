@@ -1,0 +1,12 @@
+!! Disclaimer !!
+By using Znn Clicker, you understand that this is an unfair advantage and if you get banned, it’s your responsibility.
+You can’t blame DevPieter, use it at your own risk!
+
+
+This isn't the recommended way of using Znn Clicker but, it gets the job done.
+(It's better to download the installer and run it that way)
+
+If you want Znn Clicker to work correctly, you need to follow the following rules.
+	#1 Don't delete files in this folder.
+	#2 Don't rename files in this folder.
+	#3 Don't modify files in this folder.
